@@ -1,0 +1,6 @@
+.idea
+.vscode
+__pycache__
+news.md
+news_save.md
+news_url.txt
